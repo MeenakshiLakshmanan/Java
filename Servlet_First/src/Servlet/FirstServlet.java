@@ -33,7 +33,7 @@ public class FirstServlet extends HttpServlet {
 		out.print("<BODY>");
 		out.print("Hello, Welcome :)");
 		out.print("</BODY>"); 
-		out.print("<HTML>");
+		out.print("</HTML>");
 	}
 
 	/**
